@@ -23,7 +23,7 @@ and open the template in the editor.
                     Nombre: <br> 
                     <input type="text" name="nombre" required><br><br>
                     
-                    canciones: gege <br> 
+                    canciones: <br> 
                     <textarea cols="30" rows="10" name="canciones" ></textarea><br><br>
                     
                     bio: <br>
